@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\bin\Debug\netcoreapp3.1\Monogram.exe
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\bin\Debug\netcoreapp3.1\Monogram.deps.json
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\bin\Debug\netcoreapp3.1\Monogram.runtimeconfig.json
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\bin\Debug\netcoreapp3.1\Monogram.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\bin\Debug\netcoreapp3.1\Monogram.dll
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\bin\Debug\netcoreapp3.1\Monogram.pdb
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\obj\Debug\netcoreapp3.1\Monogram.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\obj\Debug\netcoreapp3.1\Monogram.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\obj\Debug\netcoreapp3.1\Monogram.AssemblyInfo.cs
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\obj\Debug\netcoreapp3.1\Monogram.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\obj\Debug\netcoreapp3.1\Monogram.dll
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\obj\Debug\netcoreapp3.1\Monogram.pdb
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Monogram\obj\Debug\netcoreapp3.1\Monogram.genruntimeconfig.cache

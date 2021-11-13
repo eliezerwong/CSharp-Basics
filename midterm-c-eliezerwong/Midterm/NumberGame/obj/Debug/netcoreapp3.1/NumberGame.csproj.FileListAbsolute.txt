@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.exe
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.deps.json
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.runtimeconfig.json
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.dll
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.pdb
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.AssemblyInfo.cs
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.dll
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.pdb
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.genruntimeconfig.cache

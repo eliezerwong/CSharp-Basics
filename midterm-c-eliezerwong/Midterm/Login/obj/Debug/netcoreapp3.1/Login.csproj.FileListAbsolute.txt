@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\bin\Debug\netcoreapp3.1\Login.exe
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\bin\Debug\netcoreapp3.1\Login.dll
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\bin\Debug\netcoreapp3.1\Login.pdb
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\obj\Debug\netcoreapp3.1\Login.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\obj\Debug\netcoreapp3.1\Login.dll
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\obj\Debug\netcoreapp3.1\Login.pdb
+C:\Users\eliez\source\repos\ou-mis\midterm-c-eliezerwong\Midterm\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache
