@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\bin\Debug\netcoreapp3.1\GetDoubleInput() Function.exe
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\bin\Debug\netcoreapp3.1\GetDoubleInput() Function.deps.json
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\bin\Debug\netcoreapp3.1\GetDoubleInput() Function.runtimeconfig.json
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\bin\Debug\netcoreapp3.1\GetDoubleInput() Function.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\bin\Debug\netcoreapp3.1\GetDoubleInput() Function.dll
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\bin\Debug\netcoreapp3.1\GetDoubleInput() Function.pdb
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\obj\Debug\netcoreapp3.1\GetDoubleInput() Function.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\obj\Debug\netcoreapp3.1\GetDoubleInput() Function.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\obj\Debug\netcoreapp3.1\GetDoubleInput() Function.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\obj\Debug\netcoreapp3.1\GetDoubleInput() Function.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\obj\Debug\netcoreapp3.1\GetDoubleInput() Function.dll
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\obj\Debug\netcoreapp3.1\GetDoubleInput() Function.pdb
+C:\Users\eliez\source\repos\P11.1\GetDoubleInput() Function\obj\Debug\netcoreapp3.1\GetDoubleInput() Function.genruntimeconfig.cache

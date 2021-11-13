@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\bin\Debug\netcoreapp3.1\ClassGrades.exe
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\bin\Debug\netcoreapp3.1\ClassGrades.deps.json
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\bin\Debug\netcoreapp3.1\ClassGrades.runtimeconfig.json
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\bin\Debug\netcoreapp3.1\ClassGrades.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\bin\Debug\netcoreapp3.1\ClassGrades.dll
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\bin\Debug\netcoreapp3.1\ClassGrades.pdb
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\obj\Debug\netcoreapp3.1\ClassGrades.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\obj\Debug\netcoreapp3.1\ClassGrades.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\obj\Debug\netcoreapp3.1\ClassGrades.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\obj\Debug\netcoreapp3.1\ClassGrades.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\obj\Debug\netcoreapp3.1\ClassGrades.dll
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\obj\Debug\netcoreapp3.1\ClassGrades.pdb
+C:\Users\eliez\source\repos\P10.2 - Class Grade Collections\ClassGrades\obj\Debug\netcoreapp3.1\ClassGrades.genruntimeconfig.cache

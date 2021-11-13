@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\P11.2\MathFunctions\obj\Debug\netcoreapp3.1\MathFunctions.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P11.2\MathFunctions\obj\Debug\netcoreapp3.1\MathFunctions.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P11.2\MathFunctions\obj\Debug\netcoreapp3.1\MathFunctions.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P11.2\MathFunctions\obj\Debug\netcoreapp3.1\MathFunctions.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P11.2\MathFunctions\bin\Debug\netcoreapp3.1\MathFunctions.exe
+C:\Users\eliez\source\repos\P11.2\MathFunctions\bin\Debug\netcoreapp3.1\MathFunctions.deps.json
+C:\Users\eliez\source\repos\P11.2\MathFunctions\bin\Debug\netcoreapp3.1\MathFunctions.runtimeconfig.json
+C:\Users\eliez\source\repos\P11.2\MathFunctions\bin\Debug\netcoreapp3.1\MathFunctions.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P11.2\MathFunctions\bin\Debug\netcoreapp3.1\MathFunctions.dll
+C:\Users\eliez\source\repos\P11.2\MathFunctions\bin\Debug\netcoreapp3.1\MathFunctions.pdb
+C:\Users\eliez\source\repos\P11.2\MathFunctions\obj\Debug\netcoreapp3.1\MathFunctions.dll
+C:\Users\eliez\source\repos\P11.2\MathFunctions\obj\Debug\netcoreapp3.1\MathFunctions.pdb
+C:\Users\eliez\source\repos\P11.2\MathFunctions\obj\Debug\netcoreapp3.1\MathFunctions.genruntimeconfig.cache
