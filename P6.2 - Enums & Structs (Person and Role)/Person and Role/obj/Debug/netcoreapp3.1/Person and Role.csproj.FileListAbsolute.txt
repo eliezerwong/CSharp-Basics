@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\obj\Debug\netcoreapp3.1\Person and Role.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\obj\Debug\netcoreapp3.1\Person and Role.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\obj\Debug\netcoreapp3.1\Person and Role.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\obj\Debug\netcoreapp3.1\Person and Role.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\bin\Debug\netcoreapp3.1\Person and Role.exe
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\bin\Debug\netcoreapp3.1\Person and Role.deps.json
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\bin\Debug\netcoreapp3.1\Person and Role.runtimeconfig.json
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\bin\Debug\netcoreapp3.1\Person and Role.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\bin\Debug\netcoreapp3.1\Person and Role.dll
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\bin\Debug\netcoreapp3.1\Person and Role.pdb
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\obj\Debug\netcoreapp3.1\Person and Role.dll
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\obj\Debug\netcoreapp3.1\Person and Role.pdb
+C:\Users\eliez\source\repos\P6.2 - Person and Role\Person and Role\obj\Debug\netcoreapp3.1\Person and Role.genruntimeconfig.cache

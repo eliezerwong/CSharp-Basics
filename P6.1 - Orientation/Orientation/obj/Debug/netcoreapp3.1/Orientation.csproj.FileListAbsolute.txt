@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\P6.1\Orientation\bin\Debug\netcoreapp3.1\Orientation.exe
+C:\Users\eliez\source\repos\P6.1\Orientation\bin\Debug\netcoreapp3.1\Orientation.deps.json
+C:\Users\eliez\source\repos\P6.1\Orientation\bin\Debug\netcoreapp3.1\Orientation.runtimeconfig.json
+C:\Users\eliez\source\repos\P6.1\Orientation\bin\Debug\netcoreapp3.1\Orientation.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P6.1\Orientation\bin\Debug\netcoreapp3.1\Orientation.dll
+C:\Users\eliez\source\repos\P6.1\Orientation\bin\Debug\netcoreapp3.1\Orientation.pdb
+C:\Users\eliez\source\repos\P6.1\Orientation\obj\Debug\netcoreapp3.1\Orientation.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P6.1\Orientation\obj\Debug\netcoreapp3.1\Orientation.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P6.1\Orientation\obj\Debug\netcoreapp3.1\Orientation.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P6.1\Orientation\obj\Debug\netcoreapp3.1\Orientation.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P6.1\Orientation\obj\Debug\netcoreapp3.1\Orientation.dll
+C:\Users\eliez\source\repos\P6.1\Orientation\obj\Debug\netcoreapp3.1\Orientation.pdb
+C:\Users\eliez\source\repos\P6.1\Orientation\obj\Debug\netcoreapp3.1\Orientation.genruntimeconfig.cache

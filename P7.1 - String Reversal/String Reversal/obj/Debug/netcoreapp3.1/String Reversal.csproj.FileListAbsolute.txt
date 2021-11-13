@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.exe
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.deps.json
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.runtimeconfig.json
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.dll
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.pdb
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.dll
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.pdb
+C:\Users\eliez\source\repos\P7.1 - String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.genruntimeconfig.cache
