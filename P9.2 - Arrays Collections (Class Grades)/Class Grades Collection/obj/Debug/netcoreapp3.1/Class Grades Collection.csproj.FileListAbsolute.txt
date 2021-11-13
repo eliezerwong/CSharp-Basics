@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\bin\Debug\netcoreapp3.1\Class Grades Collection.exe
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\bin\Debug\netcoreapp3.1\Class Grades Collection.deps.json
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\bin\Debug\netcoreapp3.1\Class Grades Collection.runtimeconfig.json
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\bin\Debug\netcoreapp3.1\Class Grades Collection.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\bin\Debug\netcoreapp3.1\Class Grades Collection.dll
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\bin\Debug\netcoreapp3.1\Class Grades Collection.pdb
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\obj\Debug\netcoreapp3.1\Class Grades Collection.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\obj\Debug\netcoreapp3.1\Class Grades Collection.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\obj\Debug\netcoreapp3.1\Class Grades Collection.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\obj\Debug\netcoreapp3.1\Class Grades Collection.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\obj\Debug\netcoreapp3.1\Class Grades Collection.dll
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\obj\Debug\netcoreapp3.1\Class Grades Collection.pdb
+C:\Users\eliez\source\repos\P9.2\Class Grades Collection\obj\Debug\netcoreapp3.1\Class Grades Collection.genruntimeconfig.cache
