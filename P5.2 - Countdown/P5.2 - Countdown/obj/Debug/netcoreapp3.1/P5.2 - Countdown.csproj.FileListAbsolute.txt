@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\bin\Debug\netcoreapp3.1\P5.2 - Countdown.exe
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\bin\Debug\netcoreapp3.1\P5.2 - Countdown.deps.json
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\bin\Debug\netcoreapp3.1\P5.2 - Countdown.runtimeconfig.json
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\bin\Debug\netcoreapp3.1\P5.2 - Countdown.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\bin\Debug\netcoreapp3.1\P5.2 - Countdown.dll
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\bin\Debug\netcoreapp3.1\P5.2 - Countdown.pdb
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\obj\Debug\netcoreapp3.1\P5.2 - Countdown.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\obj\Debug\netcoreapp3.1\P5.2 - Countdown.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\obj\Debug\netcoreapp3.1\P5.2 - Countdown.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\obj\Debug\netcoreapp3.1\P5.2 - Countdown.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\obj\Debug\netcoreapp3.1\P5.2 - Countdown.dll
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\obj\Debug\netcoreapp3.1\P5.2 - Countdown.pdb
+C:\Users\eliez\source\repos\P5.2 - Countdown\P5.2 - Countdown\obj\Debug\netcoreapp3.1\P5.2 - Countdown.genruntimeconfig.cache

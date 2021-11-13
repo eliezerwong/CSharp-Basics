@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P4.2, Do Loop/1.0.0": {
+        "runtime": {
+          "P4.2, Do Loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P4.2, Do Loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\bin\Debug\netcoreapp3.1\P4.2, Do Loop.exe
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\bin\Debug\netcoreapp3.1\P4.2, Do Loop.deps.json
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\bin\Debug\netcoreapp3.1\P4.2, Do Loop.runtimeconfig.json
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\bin\Debug\netcoreapp3.1\P4.2, Do Loop.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\bin\Debug\netcoreapp3.1\P4.2, Do Loop.dll
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\bin\Debug\netcoreapp3.1\P4.2, Do Loop.pdb
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\obj\Debug\netcoreapp3.1\P4.2, Do Loop.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\obj\Debug\netcoreapp3.1\P4.2, Do Loop.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\obj\Debug\netcoreapp3.1\P4.2, Do Loop.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\obj\Debug\netcoreapp3.1\P4.2, Do Loop.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\obj\Debug\netcoreapp3.1\P4.2, Do Loop.dll
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\obj\Debug\netcoreapp3.1\P4.2, Do Loop.pdb
+C:\Users\eliez\source\repos\P4.2, Do Loop\P4.2, Do Loop\obj\Debug\netcoreapp3.1\P4.2, Do Loop.genruntimeconfig.cache

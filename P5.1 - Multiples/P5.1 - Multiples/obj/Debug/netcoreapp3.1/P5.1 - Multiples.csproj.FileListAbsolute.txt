@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\bin\Debug\netcoreapp3.1\P5.1 - Multiples.exe
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\bin\Debug\netcoreapp3.1\P5.1 - Multiples.deps.json
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\bin\Debug\netcoreapp3.1\P5.1 - Multiples.runtimeconfig.json
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\bin\Debug\netcoreapp3.1\P5.1 - Multiples.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\bin\Debug\netcoreapp3.1\P5.1 - Multiples.dll
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\bin\Debug\netcoreapp3.1\P5.1 - Multiples.pdb
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\obj\Debug\netcoreapp3.1\P5.1 - Multiples.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\obj\Debug\netcoreapp3.1\P5.1 - Multiples.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\obj\Debug\netcoreapp3.1\P5.1 - Multiples.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\obj\Debug\netcoreapp3.1\P5.1 - Multiples.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\obj\Debug\netcoreapp3.1\P5.1 - Multiples.dll
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\obj\Debug\netcoreapp3.1\P5.1 - Multiples.pdb
+C:\Users\eliez\source\repos\P5.1 - Multiples\P5.1 - Multiples\obj\Debug\netcoreapp3.1\P5.1 - Multiples.genruntimeconfig.cache
