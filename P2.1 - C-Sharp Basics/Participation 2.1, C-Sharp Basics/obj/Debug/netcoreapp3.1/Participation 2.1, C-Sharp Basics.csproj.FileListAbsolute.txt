@@ -1,0 +1,26 @@
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.exe
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.deps.json
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.runtimeconfig.json
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.dll
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.pdb
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.AssemblyInfo.cs
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.dll
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.pdb
+C:\Users\eliez\source\repos\Participation 2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.genruntimeconfig.cache
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.exe
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.deps.json
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.runtimeconfig.json
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.dll
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\bin\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.pdb
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.dll
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.pdb
+C:\Users\eliez\source\repos\P2.1, C-Sharp Basics\Participation 2.1, C-Sharp Basics\obj\Debug\netcoreapp3.1\Participation 2.1, C-Sharp Basics.genruntimeconfig.cache
