@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\obj\Debug\netcoreapp3.1\CalculateGrades.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\obj\Debug\netcoreapp3.1\CalculateGrades.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\obj\Debug\netcoreapp3.1\CalculateGrades.AssemblyInfo.cs
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\obj\Debug\netcoreapp3.1\CalculateGrades.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\bin\Debug\netcoreapp3.1\CalculateGrades.exe
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\bin\Debug\netcoreapp3.1\CalculateGrades.deps.json
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\bin\Debug\netcoreapp3.1\CalculateGrades.runtimeconfig.json
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\bin\Debug\netcoreapp3.1\CalculateGrades.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\bin\Debug\netcoreapp3.1\CalculateGrades.dll
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\bin\Debug\netcoreapp3.1\CalculateGrades.pdb
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\obj\Debug\netcoreapp3.1\CalculateGrades.dll
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\obj\Debug\netcoreapp3.1\CalculateGrades.pdb
+C:\Users\eliez\source\repos\ou-mis\homework7-eliezerwong\HW7\CalculateGrades\obj\Debug\netcoreapp3.1\CalculateGrades.genruntimeconfig.cache
