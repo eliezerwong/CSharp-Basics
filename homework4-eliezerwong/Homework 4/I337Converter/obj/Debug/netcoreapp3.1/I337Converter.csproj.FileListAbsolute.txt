@@ -1,0 +1,13 @@
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\bin\Debug\netcoreapp3.1\I337Converter.exe
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\bin\Debug\netcoreapp3.1\I337Converter.deps.json
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\bin\Debug\netcoreapp3.1\I337Converter.runtimeconfig.json
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\bin\Debug\netcoreapp3.1\I337Converter.runtimeconfig.dev.json
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\bin\Debug\netcoreapp3.1\I337Converter.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\bin\Debug\netcoreapp3.1\I337Converter.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\obj\Debug\netcoreapp3.1\I337Converter.csprojAssemblyReference.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\obj\Debug\netcoreapp3.1\I337Converter.AssemblyInfoInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\obj\Debug\netcoreapp3.1\I337Converter.AssemblyInfo.cs
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\obj\Debug\netcoreapp3.1\I337Converter.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\obj\Debug\netcoreapp3.1\I337Converter.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\obj\Debug\netcoreapp3.1\I337Converter.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\I337Converter\obj\Debug\netcoreapp3.1\I337Converter.genruntimeconfig.cache

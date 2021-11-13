@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsAndConsonants", "VowelsAndConsonants\VowelsAndConsonants.csproj", "{E5A8E15F-B34C-4A2D-927A-F4FD7B742827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I337Converter", "I337Converter\I337Converter.csproj", "{48BBD2A8-10A5-4F32-8728-D4E19820A20E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A8E15F-B34C-4A2D-927A-F4FD7B742827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A8E15F-B34C-4A2D-927A-F4FD7B742827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A8E15F-B34C-4A2D-927A-F4FD7B742827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A8E15F-B34C-4A2D-927A-F4FD7B742827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BBD2A8-10A5-4F32-8728-D4E19820A20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BBD2A8-10A5-4F32-8728-D4E19820A20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BBD2A8-10A5-4F32-8728-D4E19820A20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BBD2A8-10A5-4F32-8728-D4E19820A20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {032DDD47-103F-424A-B5D5-EA2F09455E4C}
+	EndGlobalSection
+EndGlobal

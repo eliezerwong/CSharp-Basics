@@ -1,0 +1,13 @@
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\obj\Debug\netcoreapp3.1\VowelsAndConsonants.csprojAssemblyReference.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\obj\Debug\netcoreapp3.1\VowelsAndConsonants.AssemblyInfoInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\obj\Debug\netcoreapp3.1\VowelsAndConsonants.AssemblyInfo.cs
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\obj\Debug\netcoreapp3.1\VowelsAndConsonants.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\bin\Debug\netcoreapp3.1\VowelsAndConsonants.exe
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\bin\Debug\netcoreapp3.1\VowelsAndConsonants.deps.json
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\bin\Debug\netcoreapp3.1\VowelsAndConsonants.runtimeconfig.json
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\bin\Debug\netcoreapp3.1\VowelsAndConsonants.runtimeconfig.dev.json
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\bin\Debug\netcoreapp3.1\VowelsAndConsonants.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\bin\Debug\netcoreapp3.1\VowelsAndConsonants.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\obj\Debug\netcoreapp3.1\VowelsAndConsonants.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\obj\Debug\netcoreapp3.1\VowelsAndConsonants.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework4-eliezerwong\Homework 4\VowelsAndConsonants\obj\Debug\netcoreapp3.1\VowelsAndConsonants.genruntimeconfig.cache
