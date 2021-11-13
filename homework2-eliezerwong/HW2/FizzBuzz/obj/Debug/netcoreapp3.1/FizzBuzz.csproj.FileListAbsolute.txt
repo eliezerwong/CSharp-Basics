@@ -1,0 +1,13 @@
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache

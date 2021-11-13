@@ -1,0 +1,13 @@
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\bin\Debug\netcoreapp3.1\Shipping.exe
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\bin\Debug\netcoreapp3.1\Shipping.deps.json
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\bin\Debug\netcoreapp3.1\Shipping.runtimeconfig.json
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\bin\Debug\netcoreapp3.1\Shipping.runtimeconfig.dev.json
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\bin\Debug\netcoreapp3.1\Shipping.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\bin\Debug\netcoreapp3.1\Shipping.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\obj\Debug\netcoreapp3.1\Shipping.csprojAssemblyReference.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\obj\Debug\netcoreapp3.1\Shipping.AssemblyInfoInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\obj\Debug\netcoreapp3.1\Shipping.AssemblyInfo.cs
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\obj\Debug\netcoreapp3.1\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\obj\Debug\netcoreapp3.1\Shipping.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\obj\Debug\netcoreapp3.1\Shipping.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\Shipping\obj\Debug\netcoreapp3.1\Shipping.genruntimeconfig.cache

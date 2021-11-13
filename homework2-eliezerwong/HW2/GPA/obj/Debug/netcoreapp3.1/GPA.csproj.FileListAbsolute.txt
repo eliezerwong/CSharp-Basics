@@ -1,0 +1,13 @@
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.exe
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.deps.json
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.runtimeconfig.json
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.runtimeconfig.dev.json
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.csprojAssemblyReference.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.AssemblyInfoInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.AssemblyInfo.cs
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework2-eliezerwong\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.genruntimeconfig.cache
