@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\bin\Debug\netcoreapp3.1\Tutor.exe
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\bin\Debug\netcoreapp3.1\Tutor.deps.json
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\bin\Debug\netcoreapp3.1\Tutor.runtimeconfig.json
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\bin\Debug\netcoreapp3.1\Tutor.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\bin\Debug\netcoreapp3.1\Tutor.dll
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\bin\Debug\netcoreapp3.1\Tutor.pdb
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\obj\Debug\netcoreapp3.1\Tutor.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\obj\Debug\netcoreapp3.1\Tutor.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\obj\Debug\netcoreapp3.1\Tutor.AssemblyInfo.cs
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\obj\Debug\netcoreapp3.1\Tutor.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\obj\Debug\netcoreapp3.1\Tutor.dll
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\obj\Debug\netcoreapp3.1\Tutor.pdb
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\Tutor\obj\Debug\netcoreapp3.1\Tutor.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\bin\Debug\netcoreapp3.1\TuitionIncrease.exe
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\bin\Debug\netcoreapp3.1\TuitionIncrease.deps.json
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\bin\Debug\netcoreapp3.1\TuitionIncrease.runtimeconfig.json
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\bin\Debug\netcoreapp3.1\TuitionIncrease.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\bin\Debug\netcoreapp3.1\TuitionIncrease.dll
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\bin\Debug\netcoreapp3.1\TuitionIncrease.pdb
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\obj\Debug\netcoreapp3.1\TuitionIncrease.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\obj\Debug\netcoreapp3.1\TuitionIncrease.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\obj\Debug\netcoreapp3.1\TuitionIncrease.AssemblyInfo.cs
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\obj\Debug\netcoreapp3.1\TuitionIncrease.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\obj\Debug\netcoreapp3.1\TuitionIncrease.dll
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\obj\Debug\netcoreapp3.1\TuitionIncrease.pdb
+C:\Users\eliez\source\repos\ou-mis\homework3-eliezerwong\TimeToBurn\TuitionIncrease\obj\Debug\netcoreapp3.1\TuitionIncrease.genruntimeconfig.cache

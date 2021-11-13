@@ -1,0 +1,12 @@
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\bin\Debug\netcoreapp3.1\TimeToBurn.exe
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\bin\Debug\netcoreapp3.1\TimeToBurn.deps.json
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\bin\Debug\netcoreapp3.1\TimeToBurn.runtimeconfig.json
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\bin\Debug\netcoreapp3.1\TimeToBurn.runtimeconfig.dev.json
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\bin\Debug\netcoreapp3.1\TimeToBurn.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\bin\Debug\netcoreapp3.1\TimeToBurn.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\obj\Debug\netcoreapp3.1\TimeToBurn.AssemblyInfoInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\obj\Debug\netcoreapp3.1\TimeToBurn.AssemblyInfo.cs
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\obj\Debug\netcoreapp3.1\TimeToBurn.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\obj\Debug\netcoreapp3.1\TimeToBurn.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\obj\Debug\netcoreapp3.1\TimeToBurn.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework3-eliezerwong\hw3\TimeToBurn\obj\Debug\netcoreapp3.1\TimeToBurn.genruntimeconfig.cache
