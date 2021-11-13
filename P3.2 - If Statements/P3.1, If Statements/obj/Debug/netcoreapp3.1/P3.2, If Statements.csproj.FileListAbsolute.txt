@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\obj\Debug\netcoreapp3.1\P3.2, If Statements.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\obj\Debug\netcoreapp3.1\P3.2, If Statements.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\obj\Debug\netcoreapp3.1\P3.2, If Statements.AssemblyInfo.cs
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\obj\Debug\netcoreapp3.1\P3.2, If Statements.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\bin\Debug\netcoreapp3.1\P3.2, If Statements.exe
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\bin\Debug\netcoreapp3.1\P3.2, If Statements.deps.json
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\bin\Debug\netcoreapp3.1\P3.2, If Statements.runtimeconfig.json
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\bin\Debug\netcoreapp3.1\P3.2, If Statements.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\bin\Debug\netcoreapp3.1\P3.2, If Statements.dll
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\bin\Debug\netcoreapp3.1\P3.2, If Statements.pdb
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\obj\Debug\netcoreapp3.1\P3.2, If Statements.dll
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\obj\Debug\netcoreapp3.1\P3.2, If Statements.pdb
+C:\Users\eliez\source\repos\P3.1, If Statements\P3.1, If Statements\obj\Debug\netcoreapp3.1\P3.2, If Statements.genruntimeconfig.cache
