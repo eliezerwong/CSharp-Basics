@@ -1,0 +1,12 @@
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\bin\Debug\netcoreapp3.1\homework 1.exe
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\bin\Debug\netcoreapp3.1\homework 1.deps.json
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\bin\Debug\netcoreapp3.1\homework 1.runtimeconfig.json
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\bin\Debug\netcoreapp3.1\homework 1.runtimeconfig.dev.json
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\bin\Debug\netcoreapp3.1\homework 1.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\bin\Debug\netcoreapp3.1\homework 1.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\obj\Debug\netcoreapp3.1\homework 1.AssemblyInfoInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\obj\Debug\netcoreapp3.1\homework 1.AssemblyInfo.cs
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\obj\Debug\netcoreapp3.1\homework 1.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\obj\Debug\netcoreapp3.1\homework 1.dll
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\obj\Debug\netcoreapp3.1\homework 1.pdb
+C:\Users\eliez\Source\Repos\ou-mis\homework1-eliezerwong\studentgrade\homework 1\obj\Debug\netcoreapp3.1\homework 1.genruntimeconfig.cache
