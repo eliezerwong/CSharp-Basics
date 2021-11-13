@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\eliez\source\repos\ou-mis\homework5-eliezerwong\HW 5\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
