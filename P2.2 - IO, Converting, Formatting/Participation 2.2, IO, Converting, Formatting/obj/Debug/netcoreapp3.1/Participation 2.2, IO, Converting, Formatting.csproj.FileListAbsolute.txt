@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\bin\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.exe
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\bin\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.deps.json
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\bin\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.runtimeconfig.json
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\bin\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\bin\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.dll
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\bin\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.pdb
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\obj\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\obj\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\obj\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.AssemblyInfo.cs
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\obj\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\obj\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.dll
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\obj\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.pdb
+C:\Users\eliez\source\repos\Participation 2.2, IO, Converting, Formatting\Participation 2.2, IO, Converting, Formatting\obj\Debug\netcoreapp3.1\Participation 2.2, IO, Converting, Formatting.genruntimeconfig.cache
